@@ -1,4 +1,4 @@
-class Dependencias {
+class Dependencia {
   const flotaDeRodados = []
   const cantidadDeEmpleados 
 
